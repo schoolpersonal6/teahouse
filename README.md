@@ -1,7 +1,9 @@
 # teahouse
 TeaHouse is a free Bootstrap 5 landing page template built using latest technologies like HTML5 & CSS3. The multipage theme is meticulously ornamented with fully responsive UI components such as a sticky top navigation bar with a dropdown, a hero header with responsive header carousels and call-to action buttons, product carousels, testimonial carousels, on-hover effects, modal YouTube video player, product cards with on-hover effects, a back-to-top button, newsletter subscription form UI, a detailed footer, breadcrumbs, contact form UI, geolocation, and many more. All the components are oriented in a very user-focused way that makes the theme very easy to use. Using TeaHouse can help you ace your next web development project!
+![image](https://github.com/schoolpersonal6/teahouse/assets/139380925/ea015dc1-ea85-4f3c-95bd-4d9e65547edf)
 
- 
+ ![image](https://github.com/schoolpersonal6/teahouse/assets/139380925/678db094-6ef4-4aef-b275-d7cc0f85e1d4)
+
 
 Free Responsive Bootstrap 5 HTML5 Landing Page Template
 Moreover, TeaHouse is built using latest technologies to make the design completely compatible with all available browsers. The multipurpose template is made to be fully responsive with Bootstrap grids, and so it doesn’t break the layout regardless of the device or screen size you’re running it. In addition to that, the theme is page-speed optimized, so it takes quicker time loading. Also, the landing page is SEO optimized, so using TeaHouse for your project means easy higher ranking in search engine results. The template necessarily comes with fewer cross-browser bugs and a soothing color scheme. Its clean codebase is not only well-documented, but it also is developer-friendly and easily customizable.
