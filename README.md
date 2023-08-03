@@ -39,17 +39,3 @@ Favicon Icon Font Integrated
 Clean and Well-commented Codebase
  
 
-In the Box
-9 HTML Pages
-HTML & CSS
-All Demo Images
-JavaScript Source Files
-Library & Plug-in
- 
-
-Library & Plug-ins
-Bootstrap 5
-Google Map
-Google Font
-Favicon
-OwlCarousel
